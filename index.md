@@ -9,7 +9,7 @@ layout: homepage
 
 
 {% include_relative _includes/publications.md %}
-{% incude_relative _includes/blogs.md %}
+{% include_relative _includes/blogs.md %}
 {% include_relative _includes/services.md %}
 {% include_relative _includes/projects.md %}
 
